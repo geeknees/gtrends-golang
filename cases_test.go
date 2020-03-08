@@ -7,7 +7,7 @@ var testCases = []struct {
 }{
 	{
 		description: "empty string",
-		input:       "",
+		input:       "JA",
 		expected:    true,
 	},
 }
